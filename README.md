@@ -1,5 +1,5 @@
 # Text classification model with NLP and ScikitLearn on song lyrics from [lyrics.com](lyrics.com)
-***Natural language processing (NLP)***
+
 
 
 ## Table of Contents
