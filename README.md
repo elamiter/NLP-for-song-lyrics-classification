@@ -1,6 +1,6 @@
-# Text Classification on Song Lyrics
+# Text classification model with NLP and ScikitLearn on song lyrics from [lyrics.com](lyrics.com)
 ***Natural language processing (NLP)***
-Text classification model for song lyrics from [lyrics.com](lyrics.com)
+
 
 ## Table of Contents
 - [General info](#general-info)
